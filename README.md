@@ -1,4 +1,5 @@
 trojan+wordpress一键脚本
+
 1、使用以下命令，trojan+wordpress一键脚本，注意不能开启CDN
 
 bash <(curl -Ls https://raw.githubusercontent.com/atrandys/trojan/master/trojan_wp.sh)
